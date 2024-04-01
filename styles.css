@@ -1,0 +1,178 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap");
+
+* {
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #ee8308;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+
+.logo img {
+  height: 150px;
+}
+
+nav ul {
+  display: flex;
+}
+
+nav ul a {
+  margin-right: 20px;
+  color: #000000;
+  text-decoration: none;
+  font-size: 25px;
+  border-radius: 15px;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+nav ul a:hover {
+  background-color: #ff7300;
+  text-decoration: underline;
+}
+
+main {
+  padding: 50px;
+}
+
+#topo p {
+  text-align: justify;
+}
+
+/* Estilo da seção de gatinhos para adoção */
+#gatinhos {
+  background-color: #f1b065;
+  padding: 15px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 15px;
+}
+
+#gatinhos-container img {
+  max-width: 100%; /* Garante que a imagem não ultrapasse a largura do contêiner */
+  max-height: 500px; /* Altura máxima da imagem */
+  border-radius: 10px;
+}
+
+#gatinhos-container .gatinho {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#gatinhos-container {
+  position: relative; /* Novo */
+  margin-top: 20px; /* Ajuste para espaço entre a imagem e os botões */
+}
+
+#btn-anterior,
+#btn-proximo {
+  position: absolute; /* Posicionamento absoluto */
+  top: 50%; /* Alinhamento vertical */
+  transform: translateY(-50%); /* Ajuste fino para alinhamento vertical */
+  background-color: rgba(
+    255,
+    255,
+    255,
+    0.5
+  ); /* Cor de fundo dos botões com transparência */
+  border: none; /* Remove a borda */
+  color: #000; /* Cor do texto */
+  font-size: 24px; /* Tamanho da fonte */
+  padding: 10px 20px; /* Espaçamento interno */
+  border-radius: 5px; /* Borda arredondada */
+  cursor: pointer; /* Cursor ao passar por cima */
+}
+
+/* Posicionamento do botão anterior */
+#btn-anterior {
+  left: 10px; /* Distância da borda esquerda */
+}
+
+/* Posicionamento do botão próximo */
+#btn-proximo {
+  right: 10px; /* Distância da borda direita */
+}
+
+#gatinhos-container .gatinho button {
+  background-color: #ff7300;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px; /* Espaçamento superior entre a imagem e o botão */
+}
+
+#gatinhos-container .gatinho button:hover {
+  background-color: #d95e00;
+}
+
+#sobre h2 {
+  text-align: center;
+}
+
+#sobre p {
+  text-align: justify;
+}
+
+/* Estilo da seção de Contato */
+#contato {
+  background-color: #f9f9f9;
+  padding: 3px;
+  text-align: center;
+}
+
+.contato-info {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.contato-info div {
+  margin: 0 20px;
+}
+
+.redes-sociais {
+  margin-top: 20px;
+}
+
+.redes-sociais p {
+  margin-bottom: 10px;
+}
+
+.redes-sociais ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.redes-sociais ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.redes-sociais ul li a {
+  color: #ff7300;
+  font-size: 24px;
+}
+
+.redes-sociais ul li a:hover {
+  color: #333;
+}
+
+/* Estilos do footer */
+footer {
+  background-color: #ee8308;
+  color: #000000;
+  padding: 20px;
+  text-align: center;
+}

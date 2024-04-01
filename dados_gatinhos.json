@@ -1,0 +1,92 @@
+[
+  {
+    "nome": "Whiskers",
+    "idade": 4,
+    "fatoCurioso": "Whiskers adora perseguir borboletas no jardim.",
+    "imagemUrl": "https://example.com/whiskers.jpg"
+  },
+  {
+    "nome": "Mia",
+    "idade": 6,
+    "fatoCurioso": "Mia é muito curiosa e adora explorar novos lugares.",
+    "imagemUrl": "https://example.com/mia.jpg"
+  },
+  {
+    "nome": "Gorducho",
+    "idade": 5,
+    "fatoCurioso": "Gorducho é um gato preguiçoso que passa a maior parte do tempo cochilando.",
+    "imagemUrl": "https://example.com/gorducho.jpg"
+  },
+  {
+    "nome": "Simba",
+    "idade": 2,
+    "fatoCurioso": "Simba é um gato muito corajoso e adora subir em árvores altas.",
+    "imagemUrl": "https://example.com/simba.jpg"
+  },
+  {
+    "nome": "Nina",
+    "idade": 3,
+    "fatoCurioso": "Nina é uma gata muito carinhosa que adora receber carinho na barriga.",
+    "imagemUrl": "https://example.com/nina.jpg"
+  },
+  {
+    "nome": "Tom",
+    "idade": 2,
+    "fatoCurioso": "Tom é um gato muito travesso que gosta de brincar com fios e cabos.",
+    "imagemUrl": "https://example.com/tom.jpg"
+  },
+  {
+    "nome": "Branquinho",
+    "idade": 4,
+    "fatoCurioso": "Branquinho é um gato muito curioso que está sempre explorando novos lugares.",
+    "imagemUrl": "https://example.com/branquinho.jpg"
+  },
+  {
+    "nome": "Lili",
+    "idade": 9,
+    "fatoCurioso": "Lili é uma gata muito energética que adora correr pela casa.",
+    "imagemUrl": "https://example.com/lili.jpg"
+  },
+  {
+    "nome": "Fofinho",
+    "idade": 3,
+    "fatoCurioso": "Fofinho é um gato muito peludo que adora se enroscar no colo das pessoas.",
+    "imagemUrl": "https://example.com/fofinho.jpg"
+  },
+  {
+    "nome": "Pelúcia",
+    "idade": 2,
+    "fatoCurioso": "Pelúcia é um gato muito amoroso que adora dormir abraçado com seus brinquedos.",
+    "imagemUrl": "https://example.com/pelucia.jpg"
+  },
+  {
+    "nome": "Frajolinha",
+    "idade": 1,
+    "fatoCurioso": "Frajolinha é um gato muito brincalhão que adora perseguir seus próprios rabiscos.",
+    "imagemUrl": "https://example.com/frajolinha.jpg"
+  },
+  {
+    "nome": "Milo",
+    "idade": 3,
+    "fatoCurioso": "Milo é um gato muito curioso que adora investigar tudo ao seu redor.",
+    "imagemUrl": "https://example.com/milo.jpg"
+  },
+  {
+    "nome": "Bella",
+    "idade": 2,
+    "fatoCurioso": "Bella é uma gata muito elegante que adora posar para fotos.",
+    "imagemUrl": "https://example.com/bella.jpg"
+  },
+  {
+    "nome": "Sombra",
+    "idade": 4,
+    "fatoCurioso": "Sombra é um gato muito misterioso que adora se esconder em cantos escuros.",
+    "imagemUrl": "https://example.com/sombra.jpg"
+  },
+  {
+    "nome": "Marley",
+    "idade": 2,
+    "fatoCurioso": "Marley é um gato muito sociável que adora fazer novos amigos.",
+    "imagemUrl": "https://example.com/marley.jpg"
+  }
+]
